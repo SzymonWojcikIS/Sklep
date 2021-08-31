@@ -59,7 +59,7 @@
                     <input class="frm-input " name="have-code" id="have-code" value="" type="checkbox"><span>Mam kod rabatowy:</span>
                
                 <a class="btn btn-checkout" href="#" wire:click.prevent="checkout">Zamów</a>
-                <a class="link-to-shop" href="shop.html">Kontynuuj zamawianie<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                <a class="link-to-shop" href="/menu">Kontynuuj zamawianie<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
                 
             </div>
             <div class="update-clear">
@@ -182,12 +182,10 @@
                             <div class="wrap-price"><ins><p class="product-price">16.00zł</p></ins> <del><p class="product-price">18.00zł</p></del></div>
                         </div>
                     </div>
-
-
+                    </div>
                 </div>
             </div><!--End wrap-products-->
         </div>
-
     </div><!--end main content area-->
 </div><!--end container-->
 

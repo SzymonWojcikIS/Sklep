@@ -87,9 +87,9 @@
                     @error('paymentmode') <span calss="text-danger">{{$message}}></span> @enderror
                 </div>
                 
-                <p class="summary-info grand-total"><span>Grand Total</span> <span class="grand-total-price">{{Cart::total() }}zł</span></p>                
+                <p class="summary-info grand-total"><span>Suma:</span> <span class="grand-total-price">{{Cart::total() }}zł</span></p>                
                 
-                <button type="submit" class="btn btn-medium">Place order now</button>
+                <button type="submit" class="btn btn-medium">Zapłać</button>
             </div>
             <div class="summary-item shipping-method">
                 <h4 class="title-box">Kod rabatowy</h4>

@@ -4,7 +4,7 @@ namespace App\Http\Livewire;
 
 use App\Models\Order;
 use App\Models\OrderItem;
-use App\Models\Shipping;
+use App\Models\Faktura;
 use App\Models\Transaction;
 use Livewire\Component;
 use PhpParser\Node\Stmt\Foreach_;
@@ -58,7 +58,7 @@ class CheckoutComponent extends Component
             'paymentmode'=> 'required'
         ]);
 
-        $order = new Order();
+        $order = new Faktura();
         $order->user_id = Auth::user()->id;
         $order->subtotal = session()->get('checkout')['subtotal'];
         $order->discount = session()->get('checkout')['discount'];
