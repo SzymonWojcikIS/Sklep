@@ -37,7 +37,7 @@
                 </p>
                 <p class="row-in-form">
                     <label for="add">Adres:</label>
-                    <input  type="text" name="add" value="" placeholder="Ulica i numer" wire:model="line1">
+                    <input  type="text" name="add" value="" placeholder="Ulica i numer" wire:model="adres">
                     @error('line1') <span calss="text-danger">{{$message}}></span> @enderror
                 </p>
                 <p class="row-in-form">
@@ -49,12 +49,7 @@
                     <label for="zip-code">Kod pocztowy:</label>
                     <input  type="number" name="zip-code" value="" placeholder="Kod pocztowy" wire:model="zipcode">
                     @error('zipcode') <span calss="text-danger">{{$message}}></span> @enderror
-                </p>
-                <p class="row-in-form">
-                    <label for="city">Miasto<span>*</span></label>
-                    <input  type="text" name="city" value="" placeholder="Miasto" wire:model="city">
-                    @error('city') <span calss="text-danger">{{$message}}></span> @enderror
-                </p>
+                </p>                
             </div>
         </div>
             </div>
@@ -87,9 +82,9 @@
                     @error('paymentmode') <span calss="text-danger">{{$message}}></span> @enderror
                 </div>
                 
-                <p class="summary-info grand-total"><span>Grand Total</span> <span class="grand-total-price">{{Cart::total() }}zł</span></p>                
+                <p class="summary-info grand-total"><span>Suma:</span> <span class="grand-total-price">{{Cart::total() }}zł</span></p>                
                 
-                <button type="submit" class="btn btn-medium">Place order now</button>
+                <button type="submit" class="btn btn-medium" >Zapłać</button>
             </div>
             <div class="summary-item shipping-method">
                 <h4 class="title-box">Kod rabatowy</h4>

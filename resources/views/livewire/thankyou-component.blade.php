@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-md-12 text-center">
             <h2>Dziękujemy za zakupy</h2>
-            <p>Email z fakturą został wysłany</p>
+            <p>Faktura została utworzona</p>
             <a href="/menu" class="btn btn-submit btn-submitx">Kontynuuj zakupy</a>
         </div>
     </div>

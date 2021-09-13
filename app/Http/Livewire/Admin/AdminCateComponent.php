@@ -14,7 +14,7 @@ class AdminCateComponent extends Component
     {
         $cate = Cate::find($id);
         $cate->delete();
-        session()->flash('message','Cate usuniete');
+        session()->flash('message','Kategoria usunieta');
     }
     
     public function render()

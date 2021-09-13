@@ -33,7 +33,7 @@ class AdminEditCateComponent extends Component
         $cate->name = $this->name;
         $cate->slug = $this->slug;
         $cate->save();
-        session()->flash('message','Cate zaktualizowana');
+        session()->flash('message','Kategoria zaktualizowana');
     }
 
     public function render()

@@ -7,6 +7,8 @@ use App\Http\Livewire\Admin\AdminCateComponent;
 use App\Http\Livewire\Admin\AdminDashboardComponent;
 use App\Http\Livewire\Admin\AdminEditCateComponent;
 use App\Http\Livewire\Admin\AdminEditProdComponent;
+use App\Http\Livewire\Admin\AdminFakturaComponent;
+use App\Http\Livewire\Admin\AdminPrintFakturaComponent;
 use App\Http\Livewire\Admin\AdminProdComponent;
 use App\Http\Livewire\CartComponent;
 use App\Http\Livewire\CateComponent;
@@ -75,4 +77,6 @@ Route::middleware(['auth:sanctum', 'verified','authadmin'])->group(function(){
     Route::get('/admin/prods',AdminProdComponent::class)->name('admin.prods');
     Route::get('/admin/prod/add',AdminAddProdComponent::class)->name('admin.addprod');
     Route::get('/admin/prod/edit/{prod_slug}',AdminEditProdComponent::class)->name('admin.editprod');
+    Route::get('/admin/fakturas',AdminFakturaComponent::class)->name('admin.fakturas');
+    Route::get('/admin.printfaktura',AdminPrintFakturaComponent::class)->name('admin.printfaktura');
 });

@@ -50,6 +50,9 @@
 													   <a title="Prods" href="{{route('admin.prods')}}">Produkty</a>
 												   </li>
 												   <li class="menu-item">
+													   <a title="Fakturas" href="{{route('admin.fakturas')}}">Faktury</a>
+												   </li>
+												   <li class="menu-item">
 												        <a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Wyloguj</a>
 												    </li>
 												   <form id="logout-form" method="POST" action="{{ route('logout') }}">
@@ -59,7 +62,7 @@
 							            	</li>
 										@else
 										<li class="menu-item menu-item-has-children parent" >
-									            <a title="My Account" href="#">My Account ({{Auth::user()->name}})<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+									            <a title="My Account" href="#">Konto ({{Auth::user()->name}})<i class="fa fa-angle-down" aria-hidden="true"></i></a>
 									            <ul class="submenu curency" >
 
 												   <li class="menu-item">
@@ -86,10 +89,10 @@
 					<div class="mid-section main-info-area">
 
 						<div class="wrap-logo-top left-section">
-							<a href="index.html" class="link-to-home"><img src="assets/images/logo.png" width="130" height="70" alt="mercado"></a>
+							<a href="index.html" class="link-to-home"><img src="{{ asset('assets/images/logo.png')}}" width="130" height="70" alt="mercado"></a>
 						</div>
 						<div >
-							<a href="index.html" class="link-to-home"><img src="assets/images/ozdb.png" width="#" height="#" alt="mercado"></a>
+							<a href="index.html" class="link-to-home"><img src="{{ asset('assets/images/ozdb.png')}}" width="#" height="#" alt="mercado"></a>
 						</div>
 						
 						<div class="wrap-icon right-section">						

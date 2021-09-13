@@ -28,7 +28,7 @@ class CartComponent extends Component
     public function destroy($rowId)
     {
         Cart::remove($rowId);
-        session()->flash('success_message','Item has been remowved');
+        session()->flash('success_message','Produkt usunięty');
     }
 
     public function destroyAll()
@@ -40,7 +40,7 @@ class CartComponent extends Component
     {
         if(Auth::check())
         {
-            return redirect()->route('checkout');
+            return redirect()->route('faktura');
         }
         else
         {
@@ -52,7 +52,7 @@ class CartComponent extends Component
     {
         if(!Cart::instance('cart')->count() > 0)
         {
-            session()->forget('checkout');
+            session()->forget('faktura');
             return;
         }
         session()->put('checkout',[
