@@ -39,7 +39,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',HomeComponent::class);
 
-Route::get('/menu',MenuComponent::class);
+Route::get('/menu',MenuComponent::class)->name('menu');
 
 Route::get('/cart',CartComponent::class)->name('prod.cart');
 

@@ -83,7 +83,7 @@
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/grigliata-mista" title="Grigliata mista">
-                                <figure><img src="{{ asset('assets/images/prods/grilow.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/digital_04.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
                                 <span class="flash-item new-label">new</span>
@@ -93,30 +93,30 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/grigliata-mista" class="product-name"><span>Grilowany mix owoców morza...</span></a>
-                            <div class="wrap-price"><span class="product-price">89.00zł</span></div>
+                            <a href="/prod/grigliata-mista" class="product-name"><span>Laptop</span></a>
+                            <div class="wrap-price"><span class="product-price">3500.00zł</span></div>
                         </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/spaghetti-al-profumo-di-basilico" title="Spaghetti al profumo di basilico">
-                                <figure><img src="{{ asset('assets/images/prods/spaget.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/digital_10.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="wrap-btn">
                                 <a href="/prod/spaghetti-al-profumo-di-basilico" class="function-link">quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>Spaghetti z pomidorkami, czosnkiem, bazylią...</span></a>
-                            <div class="wrap-price"><ins><p class="product-price">38.00zł</p></ins> </div>
+                            <a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>PAD</span></a>
+                            <div class="wrap-price"><ins><p class="product-price">145.00zł</p></ins> </div>
                         </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/negroni" title="Negroni">
-                                <figure><img src="{{ asset('assets/images/prods/negro.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/digital_05.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
                                 <span class="flash-item new-label">new</span>
@@ -127,15 +127,15 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/negroni" class="product-name"><span>Gin, campari, wermut...</span></a>
-                            <div class="wrap-price"><ins><p class="product-price">22.00zł</p></ins> <del><p class="product-price">25.00zł</p></del></div>
+                            <a href="/prod/negroni" class="product-name"><span>Tablet</span></a>
+                            <div class="wrap-price"><ins><p class="product-price">4000.00zł</p></ins> <del><p class="product-price">25.00zł</p></del></div>
                         </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/poledwica-wolowa" title="Polędwica wołowa">
-                                <figure><img src="{{ asset('assets/images/prods/poled.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/fashion_05.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
                                 <span class="flash-item bestseller-label">Bestseller</span>
@@ -145,30 +145,30 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/poledwica-wolowa" class="product-name"><span>sos porto, puree z marchewki z prażonymi...</span></a>
-                            <div class="wrap-price"><span class="product-price">88.00zł</span></div>
+                            <a href="/prod/poledwica-wolowa" class="product-name"><span>Buty.</span></a>
+                            <div class="wrap-price"><span class="product-price">451.00zł</span></div>
                         </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/soute-di-cozze" title="Soute di cozze">
-                                <figure><img src="{{ asset('assets/images/prods/mule.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/furniture_02.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="wrap-btn">
                                 <a href="/prod/soute-di-cozze" class="function-link">quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/soute-di-cozze" class="product-name"><span>Mule w sosie własnym</span></a>
-                            <div class="wrap-price"><span class="product-price">50.00zł</span></div>
+                            <a href="/prod/soute-di-cozze" class="product-name"><span>Lampa</span></a>
+                            <div class="wrap-price"><span class="product-price">46.00zł</span></div>
                         </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
                             <a href="/prod/szarlotka-na-goraco-z-galka-lodow-i-bita-smietana" title="Szarlotka na gorąco z gałką lodów i bitą śmietaną">
-                                <figure><img src="{{ asset('assets/images/prods/szarlo.png') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+                                <figure><img src="{{ asset('assets/images/products/furniture_01.jpg') }}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
                                 <span class="flash-item sale-label">sale</span>
@@ -178,8 +178,8 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <a href="/prod/szarlotka-na-goraco-z-galka-lodow-i-bita-smietana" class="product-name"><span>Szarlotka na gorąco z gałką lodów i bitą śmietaną</span></a>
-                            <div class="wrap-price"><ins><p class="product-price">16.00zł</p></ins> <del><p class="product-price">18.00zł</p></del></div>
+                            <a href="/prod/szarlotka-na-goraco-z-galka-lodow-i-bita-smietana" class="product-name"><span>Pułka</span></a>
+                            <div class="wrap-price"><ins><p class="product-price">142.00zł</p></ins> <del><p class="product-price">150.00zł</p></del></div>
                         </div>
                     </div>
                     </div>

@@ -29,7 +29,7 @@ class CreateProdsTable extends Migration
             $table->text('images')->nullable();
             $table->bigInteger('cate_id')->unsigned()->nullable();
             $table->timestamps();
-            $table->foreign('cate_id')->references('id')->on('cates')->onDelete('cascade');
+            
 
         });
     }

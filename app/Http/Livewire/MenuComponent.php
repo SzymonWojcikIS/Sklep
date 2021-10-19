@@ -22,8 +22,8 @@ class MenuComponent extends Component
     public function store($prod_id,$prod_name,$prod_price)
     {
         Cart::add($prod_id,$prod_name,1,$prod_price)->associate('App\Models\Prod');
-        session()->flash('success_message','Item added in Cart');
-        return redirect()->route('prod.cart');
+        
+        return redirect()->route('menu');
     }
 
 

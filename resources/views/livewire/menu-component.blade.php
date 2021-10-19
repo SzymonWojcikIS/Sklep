@@ -22,8 +22,8 @@
 				<div class="col-lg-9 col-md-8 col-sm-8 col-xs-12 main-content-area">
 
 					<div class="banner-shop">
-						<a href="#" class="banner-link">
-							<figure><img src="{{ asset('assets/images/rek-banner.png') }}" alt=""></figure>
+						<a href="/prod/cate/moda" class="banner-link">
+							<figure><img src="{{ asset('assets/images/rek-banner.jpg') }}" alt=""></figure>
 						</a>
 					</div>
 
@@ -42,13 +42,13 @@
 
 							<div class="sort-item product-per-page">
 								<select name="post-per-page" class="use-chosen" wire:model="pagesize" >
-									<option value="12" selected="selected">12 per page</option>
-									<option value="16">16 per page</option>
-									<option value="18">18 per page</option>
-									<option value="21">21 per page</option>
-									<option value="24">24 per page</option>
-									<option value="30">30 per page</option>
-									<option value="32">32 per page</option>
+									<option value="12" selected="selected">12 na stronę</option>
+									<option value="16">16 na stronę</option>
+									<option value="18">18 na stronę</option>
+									<option value="21">21 na stronę</option>
+									<option value="24">24 na stronę</option>
+									<option value="30">30 na stronę</option>
+									<option value="32">32 na stronę</option>
 								</select>
 							</div>
 
@@ -117,12 +117,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/grigliata-mista" title="Grigliata mista">
-												<figure><img src="{{ asset('assets/images/prods/grilow.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/digital_01.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/grigliata-mista" class="product-name"><span>Grilowany mix owoców morza...</span></a>
-											<div class="wrap-price"><span class="product-price">89.00zł</span></div>
+											<a href="/prod/grigliata-mista" class="product-name"><span>Telefon </span></a>
+											<div class="wrap-price"><span class="product-price">800.00zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -131,12 +131,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/negroni" title="Negroni">
-												<figure><img src="{{ asset('assets/images/prods/negro.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/digital_06.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/negroni" class="product-name"><span>Gin, campari, wermut...</span></a>
-											<div class="wrap-price"><span class="product-price">22.00zł</span></div>
+											<a href="/prod/negroni" class="product-name"><span>Kamera</span></a>
+											<div class="wrap-price"><span class="product-price">123.00zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -145,12 +145,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/spaghetti-al-profumo-di-basilico" title="Spaghetti al profumo di basilico">
-												<figure><img src="{{ asset('assets/images/prods/spaget.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/fashion_03.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>Spaghetti z pomidorkami, czosnkiem, bazylią...</span></a>
-											<div class="wrap-price"><span class="product-price">38.00zł</span></div>
+											<a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>Krótkie spodnie</span></a>
+											<div class="wrap-price"><span class="product-price">74.90zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -159,12 +159,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/poledwica-wolowa" title="Polędwica wołowa">
-												<figure><img src="{{ asset('assets/images/prods/poled.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/tools_equipment_2.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/poledwica-wolowa" class="product-name"><span>sos porto, puree z marchewki z prażonymi...</span></a>
-											<div class="wrap-price"><span class="product-price">88.00zł</span></div>
+											<a href="/prod/poledwica-wolowa" class="product-name"><span>Piła do betonu</span></a>
+											<div class="wrap-price"><span class="product-price">279.00zł</span></div>
 										</div>
 									</div>
 								</li>

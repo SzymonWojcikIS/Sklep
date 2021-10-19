@@ -91,8 +91,26 @@
 						<div class="wrap-logo-top left-section">
 							<a href="index.html" class="link-to-home"><img src="{{ asset('assets/images/logo.png')}}" width="130" height="70" alt="mercado"></a>
 						</div>
-						<div >
-							<a href="index.html" class="link-to-home"><img src="{{ asset('assets/images/ozdb.png')}}" width="#" height="#" alt="mercado"></a>
+						<div class="wrap-search center-section">
+							<div class="wrap-search-form">
+								<form action="#" id="form-search-top" name="form-search-top">
+									<input type="text" name="search" value="" placeholder="Szukaj...">
+									<button form="form-search-top" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
+									<div class="wrap-list-cate">
+										<input type="hidden" name="product-cate" value="0" id="product-cate">
+										<a href="#" class="link-control">Kategorie</a>
+										<ul class="list-cate">
+											<li class="level-0">Wszsytkie kategorie</li>
+											<li class="level-1">Elektronika</li>											
+											<li class="level-1">Narzędzia</li>
+											<li class="level-1">Moda</li>
+											<li class="level-1">Zabawki</li>
+											<li class="level-1">Meble</li>
+											<li class="level-1">Spa</li>
+										</ul>
+									</div>
+								</form>
+							</div>
 						</div>
 						
 						<div class="wrap-icon right-section">						
@@ -128,7 +146,7 @@
 									<a href="/aboutus" class="link-term mercado-item-title">O nas</a>
 								</li>
 								<li class="menu-item">
-									<a href="/menu" class="link-term mercado-item-title">Menu</a>
+									<a href="/menu" class="link-term mercado-item-title">Sklep</a>
 								</li>
 								<li class="menu-item">
 									<a href="/cart" class="link-term mercado-item-title">Koszyk</a>
@@ -152,37 +170,37 @@
 			<div class="wrap-function-info">
 				<div class="container">
 					<ul>
-						<li class="fc-info-item">
-							<i class="fa fa-money" aria-hidden="true"></i>
+					<li class="fc-info-item">
+							<i class="fa fa-truck" aria-hidden="true"></i>
 							<div class="wrap-left-info">
-								<h4 class="fc-name">Gotówka</h4>
-								<p class="fc-desc">Możliwość zapłaty gotówką</p>
+								<h4 class="fc-name">Darmowa dostawa</h4>
+								<p class="fc-desc">Darmowa dostawa powyżej 100zł</p>
 							</div>
+
 						</li>
+						<li class="fc-info-item">
+							<i class="fa fa-recycle" aria-hidden="true"></i>
+							<div class="wrap-left-info">
+								<h4 class="fc-name">Zwrot gotówki</h4>
+								<p class="fc-desc">Do 30 dni zwrot pieniędzy</p>
+							</div>
 
 						</li>
 						<li class="fc-info-item">
 							<i class="fa fa-credit-card-alt" aria-hidden="true"></i>
 							<div class="wrap-left-info">
-								<h4 class="fc-name">Karta</h4>
-								<p class="fc-desc">Możliwość zapłaty kartą</p>
+								<h4 class="fc-name">Bezpieczne metody płatności</h4>
+								<p class="fc-desc">Używamy bezpiecznych metod płatności</p>
 							</div>
-						</li>
 
 						</li>
 						<li class="fc-info-item">
-							<i class="fa fa-mobile" aria-hidden="true"></i>
+							<i class="fa fa-life-ring" aria-hidden="true"></i>
 							<div class="wrap-left-info">
-								<h4 class="fc-name">Zbliżeniowo</h4>
-								<p class="fc-desc">Możliwość zapłaty telefonem/zegarkiem</p>
+								<h4 class="fc-name">Pomoc online</h4>
+								<p class="fc-desc">Pomoc przez 24/7</p>
 							</div>
-						</li>
-						<li class="fc-info-item">
-							<i class="fa fa-barcode" aria-hidden="true"></i>
-							<div class="wrap-left-info">
-								<h4 class="fc-name">Blik</h4>
-								<p class="fc-desc">Możliwość zapłaty kodem blik</p>
-							</div>
+
 						</li>
 						
 					</ul>
@@ -212,7 +230,7 @@
 											</li>
 											<li>
 												<i class="fa fa-envelope" aria-hidden="true"></i>
-												<p class="contact-txt">Contact@hotelresto.com</p>
+												<p class="contact-txt">Contact@shop.com</p>
 											</li>											
 										</ul>
 									</div>

@@ -103,19 +103,19 @@
             </div><!-- Categories widget-->
             
             <div class="widget mercado-widget widget-product">
-                <h2 class="widget-title">Popularne produkty</h2>
-                <div class="widget-content">
-                    <ul class="products">
-                    <li class="product-item">
+						<h2 class="widget-title">Popularne produkty</h2>
+						<div class="widget-content">
+							<ul class="products">
+								<li class="product-item">
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/grigliata-mista" title="Grigliata mista">
-												<figure><img src="{{ asset('assets/images/prods/grilow.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/digital_01.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/grigliata-mista" class="product-name"><span>Grilowany mix owoców morza...</span></a>
-											<div class="wrap-price"><span class="product-price">89.00zł</span></div>
+											<a href="/prod/grigliata-mista" class="product-name"><span>Telefon </span></a>
+											<div class="wrap-price"><span class="product-price">800.00zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -124,12 +124,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/negroni" title="Negroni">
-												<figure><img src="{{ asset('assets/images/prods/negro.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/digital_06.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/negroni" class="product-name"><span>Gin, campari, wermut...</span></a>
-											<div class="wrap-price"><span class="product-price">22.00zł</span></div>
+											<a href="/prod/negroni" class="product-name"><span>Kamera</span></a>
+											<div class="wrap-price"><span class="product-price">123.00zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -138,12 +138,12 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/spaghetti-al-profumo-di-basilico" title="Spaghetti al profumo di basilico">
-												<figure><img src="{{ asset('assets/images/prods/spaget.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/fashion_03.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>Spaghetti z pomidorkami, czosnkiem, bazylią...</span></a>
-											<div class="wrap-price"><span class="product-price">38.00zł</span></div>
+											<a href="/prod/spaghetti-al-profumo-di-basilico" class="product-name"><span>Krótkie spodnie</span></a>
+											<div class="wrap-price"><span class="product-price">74.90zł</span></div>
 										</div>
 									</div>
 								</li>
@@ -152,19 +152,19 @@
 									<div class="product product-widget-style">
 										<div class="thumbnnail">
 											<a href="/prod/poledwica-wolowa" title="Polędwica wołowa">
-												<figure><img src="{{ asset('assets/images/prods/poled.png') }}" alt=""></figure>
+												<figure><img src="{{ asset('assets/images/products/tools_equipment_2.jpg') }}" alt=""></figure>
 											</a>
 										</div>
 										<div class="product-info">
-											<a href="/prod/poledwica-wolowa" class="product-name"><span>sos porto, puree z marchewki z prażonymi...</span></a>
-											<div class="wrap-price"><span class="product-price">88.00zł</span></div>
+											<a href="/prod/poledwica-wolowa" class="product-name"><span>Piła do betonu</span></a>
+											<div class="wrap-price"><span class="product-price">279.00zł</span></div>
 										</div>
 									</div>
 								</li>
 
-                    </ul>
-                </div>
-            </div><!-- brand widget-->
+							</ul>
+						</div>
+					</div><!-- brand widget-->
 
         </div><!--end sitebar-->
 

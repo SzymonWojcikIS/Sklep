@@ -14,29 +14,29 @@
 			<!-- <div class="main-content-area"> -->
 				<div class="aboutus-info style-center">
 					<b class="box-title">O nas</b>
-					<p class="txt-content">W przytulnych i klimatyzowanych wnętrzach restauracji, Goście mogą degustować dania kuchni polskiej i europejskiej oraz zrelaksować się i odpocząć. Spotkacie tu Państwo miłą atmosferę i profesjonalną obsługę. Przestronna sala restauracyjna składa się z dwóch przylegających do siebie pomieszczeń (przedzielonych ruchomą ścianą), które jednorazowo mogą przyjąć około 100 osób. W sezonie wiosenno - letnim tuż przy restauracji oddajemy do dyspozycji taras oraz ogródek grillowy.</p>
+					<p class="txt-content">Oferujemy produkty we wszystkich kluczowych kategoriach, w tym Motoryzacja, Moda, Dom i Ogród, Elektronika, Książki i Kolekcje, Dzieci czy Zdrowie i Uroda. Każdego miesiąca naszą platformę odwiedza 20 mln klientów, co stanowi 80% wszystkich internautów w Polsce. Mają do wyboru ponad 200m ofert w najbardziej atrakcyjnych cenach z maksymalną wygodą, w tym szybkie i bezpłatne Allegro Smart! dostawy i pełne bezpieczeństwo. Polacy chętniej zaczynają od nas poszukiwania produktów niż jakakolwiek inna popularna wyszukiwarka (wg badania IRCenter 2020).</p>
 				</div>
 
 				<div class="row equal-container">
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<div class="aboutus-box-score equal-elem ">
-							<b class="box-score-title">50</b>
-							<span class="sub-title">Pozycji w menu</span>
-							<p class="desc">Posiadamy bardzo bogatą kartę dań, od pysznych zup i dań mięsnych, po cudowen owoce morza i desery. </p>
+							<b class="box-score-title">5 lat </b>
+							<span class="sub-title">w Polsce</span>
+							<p class="desc">Od 5 lat działamy w Polsce </p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<div class="aboutus-box-score equal-elem ">
 							<b class="box-score-title">95%</b>
-							<span class="sub-title">Zadowolonych gości</span>
-							<p class="desc">Z naszej restauracji goście wychodzą pojedzeni i uśmiechnięci :)</p>
+							<span class="sub-title">Zadowolonych klientów</span>
+							<p class="desc">95% klientów było zadowolonych w naszym sklepie</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<div class="aboutus-box-score equal-elem ">
 							<b class="box-score-title">Promocje</b>
 							<span class="sub-title"></span>
-							<p class="desc">Codziennie promocje na wybrane dania.</p>
+							<p class="desc">Codziennie promocje na wybrane produkty.</p>
 						</div>
 					</div>
                     
@@ -46,31 +46,25 @@
 
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<div class="aboutus-info style-small-left">
-							<b class="box-title">Staramy się, aby spędzony u nas czas na długo pozostał w pamięci Gości, dlatego też oferujemy następujące usługi:</b>
-							<p class="txt-content">-> bankiety, komunie, wesela, Andrzejki, bale sylwestrowe,</br>
-                                                   -> uroczystości rodzinne, spotkania towarzyskie</br>
-                                                   -> przyjęcia okazjonalne, imprezy kulturalno - rozrywkowe</br>
-                                                   -> uroczystości u klienta w domu, firmie i w każdym innym miejscu</br></p>
+							<b class="box-title">Rozwinęliśmy się, aby zdobyć zaufanie i uznanie klientów.</b>
+							<p class="txt-content">Naszą misją jest oferowanie klientom najlepszych doświadczeń zakupowych i wspaniałych możliwości biznesowych dla handlowców. Skupiamy się na ich potrzebach, które inspirują nas do tworzenia innowacyjnych rozwiązań, w których biznes i technologia łączą się ze sobą. Nasz poziom NPS (Net Promoter Score) wynosi +72, co można porównać do kultowych światowych marek konsumenckich, takich jak Starbucks (77), YouTube (59) i Spotify (46)</p>
 						</div>
 						<div class="aboutus-info style-small-left">
-							<b class="box-title">W restauracji istnieje możliwość organizacji:</b>
-							<p class="txt-content">-> imprez okolicznościowych (wesela, komunie, chrzciny, itp.) na 75 osób</br>
-                                                   -> bankietów, rautów w formie stojącej na 150 os. z ogródkiem grillowym na 250 osób</br>
-                                                   -> imprez muzycznych, koncertów na 120 osób</br>
-                                                   -> obiadów i obiadokolacji zasiadanych (dotyczy grup turystycznych) na 100 osób</br></p>
+							<b class="box-title">Obecnie zatrudniamy blisko 2100 pracowników – o 30% więcej niż jeszcze 3 lata temu</b>
+							<p class="txt-content">Nasz sklep posiada największy w Polsce zespół ds. rozwoju technologii, liczący ponad 850 wysoko wykwalifikowanych inżynierów – oznacza to, że co drugi pracownik  pracuje w obszarze Technologii. To wielki atut, ale nie zatrzymujemy go tylko dla siebie. Inicjatywa  Tech to nasz sposób na promocję i dzielenie się wiedzą z polską społecznością Tech - bierzemy udział w krajowych i zagranicznych konferencjach, meetupach oraz tworzymy treści bloga sklep.tech .</p>
 						</div>
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<div class="aboutus-info style-small-left">
-							<b class="box-title">Klient najważniejszy</b>
-							<p class="txt-content">Do każdego zamówienia podchodzimy indywidualnie. Mogą Państwo sami wybrać potrawy, które specjalnie dla Was przygotujemy lub zdecydować się na jedną z przygotowanych przez nas propozycji.</p>
+							<b class="box-title">Cenimy otwartą komunikację, zwinność i praktyczne podejście do tworzonych przez nas rozwiązań.</b>
+							<p class="txt-content">Kierujemy się wartościami przedsiębiorczymi, takimi jak praca zespołowa, osobiste zaangażowanie i ciągły rozwój zawodowy.
+
+Stale podnosząc poprzeczkę, wprowadzamy innowacje i ulepszamy ekosystem narzędzi i usług Allegro, aby zapewnić naszym klientom i sprzedawcom doświadczenie, które jest niczym innym, jak światowym standardem. Zawsze byli w centrum wszystkiego, co robimy i wiemy, że musimy codziennie pracować, aby utrzymać ich zaufanie.</p>
 						</div>
 						<div class="aboutus-info style-small-left">
-							<b class="box-title">Godziny otwarcia:</b>
-							<p class="txt-content">pon-pt - 6.30 - 23.00</br>
-                                                   sob-nd - 7.00 - 22.00 </br>        
-                                                   Śniadanie: od 6.30 do 10.00 (pon. - pt.) oraz od 7.30 do 10.00 (sob.-nd.)</p>
+							<b class="box-title">Zespoły niezwiązane z technologią obejmują różne funkcje biznesowe, z których największe to obsługa klienta i handel.</b>
+							<p class="txt-content">Sklep oferuje wyjątkową skalę działania i bezpośredni wpływ na biznes – oznacza to, że z rozwiązań, które stworzysz, skorzystają miliony Polaków – w tym Twoi znajomi i rodzina!</p>
 						</div>
 					</div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -112,7 +106,7 @@
 								</div>
 								<div class="info">
 									<b class="name">Kamil</b>
-									<span class="title">- Szef kuchni</span>								
+									<span class="title">- Dyrektor</span>								
 								</div>
 							    </div>
 								</label>
@@ -125,7 +119,7 @@
 								</div>
 								<div class="info">
 									<b class="name">Kinga</b>
-									<span class="title">- Barmanka</span>								
+									<span class="title">- Marketingowiec</span>								
 								</div>
 							    </div>
 								</label>
